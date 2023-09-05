@@ -1,0 +1,6 @@
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\ListAndDictionaries\bin\Debug\ListAndDictionaries.dll
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\ListAndDictionaries\bin\Debug\ListAndDictionaries.pdb
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\ListAndDictionaries\obj\Debug\ListAndDictionaries.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\ListAndDictionaries\obj\Debug\ListAndDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\ListAndDictionaries\obj\Debug\ListAndDictionaries.dll
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\ListAndDictionaries\obj\Debug\ListAndDictionaries.pdb

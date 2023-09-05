@@ -1,0 +1,6 @@
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\ExDelegate\bin\Debug\ExDelegate.dll
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\ExDelegate\bin\Debug\ExDelegate.pdb
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\ExDelegate\obj\Debug\ExDelegate.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\ExDelegate\obj\Debug\ExDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\ExDelegate\obj\Debug\ExDelegate.dll
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\ExDelegate\obj\Debug\ExDelegate.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\algorithms\bin\Debug\algorithms.dll
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\algorithms\bin\Debug\algorithms.pdb
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\algorithms\obj\Debug\algorithms.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\algorithms\obj\Debug\algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\algorithms\obj\Debug\algorithms.dll
+C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\algorithms\obj\Debug\algorithms.pdb
