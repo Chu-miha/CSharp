@@ -12,13 +12,13 @@ namespace SomeThingWithWF
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
-        //[STAThread]
-        //static void Main()
-        //{
-        //    var model = new GameModel(5);
-        //    Application.EnableVisualStyles();
-        //    Application.SetCompatibleTextRenderingDefault(false);
-        //    Application.Run(new MyForm(model));
-        //}
+        [STAThread]
+        static void Main()
+        {
+            //var model = new GameModel(5);
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new MyFormForStreams());
+        }
     }
 }

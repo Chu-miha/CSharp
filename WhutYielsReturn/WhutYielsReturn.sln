@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeThingWithWF", "SomeThin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphAlg", "GraphAlg\GraphAlg.csproj", "{6DCDE774-AB56-42A7-B03C-9F1D5D3E5B4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streams", "Streams\Streams.csproj", "{4D13EFB3-B4F6-4696-ABE2-B217B4D8F006}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{6DCDE774-AB56-42A7-B03C-9F1D5D3E5B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DCDE774-AB56-42A7-B03C-9F1D5D3E5B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DCDE774-AB56-42A7-B03C-9F1D5D3E5B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D13EFB3-B4F6-4696-ABE2-B217B4D8F006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D13EFB3-B4F6-4696-ABE2-B217B4D8F006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D13EFB3-B4F6-4696-ABE2-B217B4D8F006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D13EFB3-B4F6-4696-ABE2-B217B4D8F006}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

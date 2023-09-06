@@ -8,3 +8,16 @@ C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\SomeThingWithWF\obj\Debug\SomeThing
 C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\SomeThingWithWF\obj\Debug\SomeThingWithWF.csproj.CoreCompileInputs.cache
 C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\SomeThingWithWF\obj\Debug\SomeThingWithWF.exe
 C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\SomeThingWithWF\obj\Debug\SomeThingWithWF.pdb
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\SomeThingWithWF\bin\Debug\SomeThingWithWF.exe.config
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\SomeThingWithWF\bin\Debug\SomeThingWithWF.exe
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\SomeThingWithWF\bin\Debug\SomeThingWithWF.pdb
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\SomeThingWithWF\bin\Debug\Streams.dll
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\SomeThingWithWF\bin\Debug\Streams.pdb
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\SomeThingWithWF\obj\Debug\SomeThingWithWF.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\SomeThingWithWF\obj\Debug\SomeThingWithWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\SomeThingWithWF\obj\Debug\SomeThingWithWF.Properties.Resources.resources
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\SomeThingWithWF\obj\Debug\SomeThingWithWF.csproj.GenerateResource.cache
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\SomeThingWithWF\obj\Debug\SomeThingWithWF.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\SomeThingWithWF\obj\Debug\SomeThingWithWF.csproj.CopyComplete
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\SomeThingWithWF\obj\Debug\SomeThingWithWF.exe
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\SomeThingWithWF\obj\Debug\SomeThingWithWF.pdb

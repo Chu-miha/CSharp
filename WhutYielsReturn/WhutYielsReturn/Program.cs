@@ -9,6 +9,7 @@ using ExDelegate;
 using Xunit;
 using System.Collections;
 using GraphAlg;
+using Streams;
 
 namespace WhutYielsReturn
 {
@@ -46,8 +47,9 @@ namespace WhutYielsReturn
     {
     //    static Random rnd = new Random();
 
-       static void Main(string[] args)
-        {
+        
+      // static void Main(string[] args)
+      //  {
             #region
             //        //Queue<int> queue = new Queue<int>();
             //        //queue.Enqueue(1);
@@ -245,23 +247,44 @@ namespace WhutYielsReturn
             //}
             #endregion
 
-            var graph = Graph.MakeGraph(
-                0, 1,
-                0, 2,
-                0, 3,
-                1, 3,
-                2, 3
-                );
+            //var graph = Graph.MakeGraph(
+            //    0, 1,
+            //    0, 2,
+            //    0, 3,
+            //    1, 3,
+            //    2, 3
+            //    );
 
-            var weights = new Dictionary<Edge, double>();
-            weights[graph[0, 1]] = 1;
-            weights[graph[0, 2]] = 2;
-            weights[graph[0, 3]] = 6;
-            weights[graph[1, 3]] = 4;
-            weights[graph[2, 3]] = 2;
+            //var weights = new Dictionary<Edge, double>();
+            //weights[graph[0, 1]] = 1;
+            //weights[graph[0, 2]] = 2;
+            //weights[graph[0, 3]] = 6;
+            //weights[graph[1, 3]] = 4;
+            //weights[graph[2, 3]] = 2;
+
+            // пример потока 
+
+            //var thread = new Thread(new ThreadStart(() => Stream.MakeWork(1)));
+            //thread.Start();
+            //thread = new Thread(new ThreadStart(() => Stream.MakeWork(2)));
+            //thread.Start();
+            //Thread.Sleep(Timeout.Infinite); 
+
+            //асинхроный вызов через BeginInvoke
+            //var func = new Func<int, double>(Stream.MakeWork);
+            //var result = func.BeginInvoke(1, null, null);
+            //while (!result.IsCompleted)
+            //{
+            //    Console.Write(".");
+            //}
+            //var returnedValue = func.EndInvoke(result);
+
+            //Асинхроный вызов через Parallel
+
+           // Parallel.For(0, 10, Stream.MakeWork);
 
 
-        }
+      //  }
 
         //static string[] labyrinth = new string[]
         //{

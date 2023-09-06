@@ -1,0 +1,6 @@
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\Streams\bin\Debug\Streams.dll
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\Streams\bin\Debug\Streams.pdb
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\Streams\obj\Debug\Streams.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\Streams\obj\Debug\Streams.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\Streams\obj\Debug\Streams.dll
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\Streams\obj\Debug\Streams.pdb

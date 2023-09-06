@@ -75,6 +75,10 @@
       <Project>{c6ce12a9-8c73-453f-aae7-b21454479342}</Project>
       <Name>ListAndDictionaries</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Streams\Streams.csproj">
+      <Project>{4d13efb3-b4f6-4696-abe2-b217b4d8f006}</Project>
+      <Name>Streams</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

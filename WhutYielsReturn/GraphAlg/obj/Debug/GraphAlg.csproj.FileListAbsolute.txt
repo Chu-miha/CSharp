@@ -4,3 +4,9 @@ C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\GraphAlg\obj\Debug\GraphAlg.csproj.
 C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\GraphAlg\obj\Debug\GraphAlg.csproj.CoreCompileInputs.cache
 C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\GraphAlg\obj\Debug\GraphAlg.dll
 C:\Users\Mi\Desktop\Vsychina\WhutYielsReturn\GraphAlg\obj\Debug\GraphAlg.pdb
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\GraphAlg\bin\Debug\GraphAlg.dll
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\GraphAlg\bin\Debug\GraphAlg.pdb
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\GraphAlg\obj\Debug\GraphAlg.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\GraphAlg\obj\Debug\GraphAlg.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\GraphAlg\obj\Debug\GraphAlg.dll
+C:\Users\Mi\Desktop\Vsychina\CSharp\WhutYielsReturn\GraphAlg\obj\Debug\GraphAlg.pdb
